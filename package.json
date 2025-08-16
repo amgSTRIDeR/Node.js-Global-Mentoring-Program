@@ -1,0 +1,20 @@
+{
+  "name": "node.js-global-mentoring-program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amgSTRIDeR/Node.js-Global-Mentoring-Program.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amgSTRIDeR/Node.js-Global-Mentoring-Program/issues"
+  },
+  "homepage": "https://github.com/amgSTRIDeR/Node.js-Global-Mentoring-Program#readme"
+}
