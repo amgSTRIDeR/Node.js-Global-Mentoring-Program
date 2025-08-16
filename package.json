@@ -1,11 +1,10 @@
 {
   "name": "node.js-global-mentoring-program",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/amgSTRIDeR/Node.js-Global-Mentoring-Program/issues"
   },
-  "homepage": "https://github.com/amgSTRIDeR/Node.js-Global-Mentoring-Program#readme"
+  "homepage": "https://github.com/amgSTRIDeR/Node.js-Global-Mentoring-Program#readme",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "type": "module"
 }
